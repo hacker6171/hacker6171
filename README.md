@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Telegram BOT](https://t.me/ganigrade_bot)
 
-- 🌱 I’m currently learning **📘 LLM & 🧠 NLP 
+- 🌱 I’m currently learning **📘 LLM & 🧠 NLP **
 
 - 👨‍💻 All of my projects are available at [https://mandas-portfolio.super.site/](https://mandas-portfolio.super.site/)
 
