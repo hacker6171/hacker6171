@@ -17,8 +17,8 @@
 
 - 🔭 I’m currently working on [Telegram BOT](https://t.me/ganigrade_bot)
 - 🌱 I’m currently learning **🔴 Ruby, 📘 LLM & 🧠 NLP**
-- 👨‍💻 All of my projects are available at [https://mandas-portfolio.super.site/](https://mandas-portfolio.super.site/)
-- 📝 I regularly write articles on [https://milionmoments.blogspot.com/](https://milionmoments.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mandas-portfolio.super.site/)
+- 📝 I regularly write articles on [Blog](https://dailydigest3366.blogspot.com/)
 - 💬 Ask me about **AI BOTS & Web Development**
 - 📫 How to reach me **durgareddy@engineer.com**
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1yH1p3UiOy-cEzVldav53bBogsJlPgLET/edit?usp=drive_link&ouid=114636403064056185780&rtpof=true&sd=true)
