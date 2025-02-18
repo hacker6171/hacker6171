@@ -21,13 +21,13 @@
 
 ## 🏆 Featured Projects
 
-🚀 **[Echo - Telegram Bot](https://github.com/your-username/Echo)**  
+🚀 **[Echo - Telegram Bot](https://github.com/hacker6171/Echo)**  
 A simple Telegram bot running on **Azure Functions** that echoes user messages.  
 
-🔍 **[Resume Ranking System](https://github.com/your-username/Resume-Ranker)**  
+🔍 **[Resume Ranking System](https://github.com/hacker6171/ResumeProcessor)**  
 A system that **scans and ranks resumes** based on keyword matching.  
 
-📋 **[Job Application Tracker](https://github.com/your-username/Job-Tracker)**  
+📋 **[Job Application Tracker](https://github.com/hacker6171/Job-Application-Tracker-Automated-Email-Sending-and-Recruiter-Log)**  
 Automates job applications and logs recruiter interactions.
 
 ---
