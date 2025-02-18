@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Vighneswara Manda (Ganesh/Nash) 🚀</h1>
+<h1 align="center">🚀 Vighneswara Manda (Gana/Nash) 🚀</h1>
 <h3 align="center">Passionate about AI, Cloud, and Automation</h3>
 
 <p align="center">
