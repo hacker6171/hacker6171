@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/hacker6171?style=social" alt="GitHub Followers" />
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="300" width="450"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="450" alt="Mr. Robot Welcome GIF" />
 
 ## 💡 About Me
 
