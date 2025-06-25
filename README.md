@@ -61,11 +61,12 @@ Automates job applications and logs recruiter interactions.
 
 ---
 
-## 📊 GitHub Stats
+```text
+ ▗▄▄▖ ▗▄▖ ▗▄▄▄ ▗▄▄▄▖     ▗▄▖ ▗▖    ▗▄▄▖▗▖ ▗▖▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖ ▗▄▄▖▗▄▄▄▖
+▐▌   ▐▌ ▐▌▐▌  █▐▌       ▐▌ ▐▌▐▌   ▐▌   ▐▌ ▐▌▐▌   ▐▛▚▞▜▌  █  ▐▌     █  
+▐▌   ▐▌ ▐▌▐▌  █▐▛▀▀▘    ▐▛▀▜▌▐▌   ▐▌   ▐▛▀▜▌▐▛▀▀▘▐▌  ▐▌  █   ▝▀▚▖  █  
+▝▚▄▄▖▝▚▄▞▘▐▙▄▄▀▐▙▄▄▖    ▐▌ ▐▌▐▙▄▄▖▝▚▄▄▖▐▌ ▐▌▐▙▄▄▖▐▌  ▐▌▗▄█▄▖▗▄▄▞▘  █  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker6171&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
